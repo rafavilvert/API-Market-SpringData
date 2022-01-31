@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+/home/vilvert/Documents/DevinHouse/Modulo 3/Exercícios/market/.metadata/.plugins/org.eclipse.jdt.core
